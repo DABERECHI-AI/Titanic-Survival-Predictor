@@ -4,7 +4,6 @@ A machine learning project that predicts passenger survival on the RMS Titanic w
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2.2-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📊 Project Overview
 
