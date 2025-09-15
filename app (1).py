@@ -27,7 +27,7 @@ def predict_survival(pclass, sex, age, sibsp, parch, fare, title, embarked):
     input_data['Age'] = age
     input_data['SibSp'] = sibsp
     input_data['Parch'] = parch
-        input_data['Fare'] = fare
+    input_data['Fare'] = fare
     
     
     title_col = f"Title_{title}"
